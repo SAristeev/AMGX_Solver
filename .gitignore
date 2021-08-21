@@ -6,7 +6,6 @@ bld/
 out/
 output/
 input/
-config/
 # User-specific files
 *.rsuser
 *.suo
