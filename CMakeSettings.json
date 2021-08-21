@@ -13,20 +13,19 @@
       "variables": [
         {
           "name": "AMGX_LIBRARIES_DIR",
-          "value": "C:\\Users\\sergey\\Desktop\\AMGX-build\\Release",
+          "value": "C:\\Users\\Sergei\\Desktop\\AMGX-build\\Release",
           "type": "PATH"
         },
         {
           "name": "AMGX_INCLUDE_CORE_DIR",
-          "value": "C:\\Users\\sergey\\Desktop\\AMGX-2.2.0\\core\\include",
+          "value": "C:\\Users\\Sergei\\Desktop\\AMGX-2.2.0\\core\\include",
           "type": "PATH"
         },
         {
           "name": "AMGX_INCLUDE_BASE_DIR",
-          "value": "C:\\Users\\sergey\\Desktop\\AMGX-2.2.0\\base\\include",
+          "value": "C:\\Users\\Sergei\\Desktop\\AMGX-2.2.0\\base\\include",
           "type": "PATH"
         }
-
       ]
     }
   ]
