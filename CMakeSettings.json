@@ -1,0 +1,33 @@
+﻿{
+  "configurations": [
+    {
+      "name": "x64-Debug (default)",
+      "generator": "Ninja",
+      "configurationType": "Debug",
+      "inheritEnvironments": [ "msvc_x64_x64" ],
+      "buildRoot": "${projectDir}\\out\\build\\${name}",
+      "installRoot": "${projectDir}\\out\\install\\${name}",
+      "cmakeCommandArgs": "",
+      "buildCommandArgs": "",
+      "ctestCommandArgs": "",
+      "variables": [
+        {
+          "name": "AMGX_LIBRARIES_DIR",
+          "value": "C:\\Users\\sergey\\Desktop\\AMGX-build\\Release",
+          "type": "PATH"
+        },
+        {
+          "name": "AMGX_INCLUDE_CORE_DIR",
+          "value": "C:\\Users\\sergey\\Desktop\\AMGX-2.2.0\\core\\include",
+          "type": "PATH"
+        },
+        {
+          "name": "AMGX_INCLUDE_BASE_DIR",
+          "value": "C:\\Users\\sergey\\Desktop\\AMGX-2.2.0\\base\\include",
+          "type": "PATH"
+        }
+
+      ]
+    }
+  ]
+}
